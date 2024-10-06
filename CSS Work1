@@ -1,0 +1,28 @@
+<html>
+<head>
+    <p style='color:blue; font-size: 50px'>
+        I am Learing about Inline In Css
+    </p>
+    <style>
+        .demo{
+             color:rgba(255, 255, 255, 0.685);
+            background-color: rgba(211, 29, 44, 0.863);
+        }
+        #para{
+            color:red;
+            background-color: beige;
+        }
+        p {
+            color:rgb(13, 107, 13)
+          }
+    </style>        
+</head>
+<body>
+    <p class="demo">This is  a Class Selector</p>
+    <p id="para">Hello I am A Codingal Student And This Is The ID Seclector</p>
+    <p>Hi My Name Is Moyin</p>
+    <a href="https://www.google.com/search?sca_esv=3844940eadf4dee2&rlz=1C1CHBF_en-GBGB1099GB1099&sxsrf=ADLYWILv5ckb2rXcRsZvmOxTRTh3QGcnmg:1728242373632&q=iphone+16+pro&udm=2&fbs=AEQNm0CvspUPonaF8UH5s_LBD3JPX4RSeMPt9v8oIaeGMh2T2PRrsfVPlQRxSTpQ4UUI6wdh60Bm53mxaBz4ng0b7PV-YGWOXPAK2E9Fu6maaEHunHtoSjVk3b-j4DUpo16Oa_LVdETsNu_VGLBMmFaNxor7f38b2SzeEgh2In7gbY1o1jZb0CIcwnVDOcoRa1v5_LKsm1fEDd6pfd2A3dGDUASPo0aaxA&sa=X&ved=2ahUKEwjonJDGvPqIAxXaVkEAHeOiBrcQtKgLegQIEBAB&biw=1366&bih=633&dpr=1">iPhone 16</a>
+<img src="C:\Users\HP\Downloads\tHE pHONE i WaNt.jpg" alt="ThE PhOnE I WaNt" width="100" height="100">
+</a>
+</body>
+</html>
